@@ -1,0 +1,47 @@
+(footprint "USB_B_Mini_U-M-M5DD-W-1" (version 20210126) (generator pcbnew) (layer "F.Cu")
+  (tedit 60432594)
+  (descr "Korean Hroparts Elec U-M-M5DD-W-1")
+  (tags "C145778")
+  (fp_text reference "J**" (at 0 8.4 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4a7f3025-e5d9-411b-9728-167b65554536)
+  )
+  (fp_text value "USB_B_Mini_U-M-M5DD-W-1" (at 0 9.9 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8e2ad7f2-7ed0-47ce-a74a-352f2f23512c)
+  )
+  (fp_line (start -2.75 4.8) (end 2.75 4.8) (layer "F.SilkS") (width 0.12) (tstamp 0de63cc7-5ae2-4999-9ac6-f13199eaa00e))
+  (fp_line (start 3.65 0.1) (end 3.65 2.1) (layer "F.SilkS") (width 0.12) (tstamp 4a847d4d-a272-4844-99a9-a50f4b943af5))
+  (fp_line (start -3.65 2.1) (end -3.65 0.1) (layer "F.SilkS") (width 0.12) (tstamp b77e838d-a024-432d-ae67-b1a8dc3e6148))
+  (fp_line (start -2.75 0) (end 2.75 0) (layer "F.SilkS") (width 0.12) (tstamp c952ab48-0568-4089-832a-bd8cee4fff44))
+  (fp_line (start 4.55 -2.8) (end 4.55 7.3) (layer "F.CrtYd") (width 0.1) (tstamp 3552a65b-e9b6-46ce-998c-26aa627bf17d))
+  (fp_line (start 4.55 -2.8) (end -4.55 -2.8) (layer "F.CrtYd") (width 0.1) (tstamp 771bcf43-9fcb-4f1f-9324-dcf70d447bd0))
+  (fp_line (start 4.55 7.3) (end -4.55 7.3) (layer "F.CrtYd") (width 0.1) (tstamp 8a99a8d0-369c-4dfe-9d2e-3690b9a667ca))
+  (fp_line (start -4.55 7.3) (end -4.55 -2.8) (layer "F.CrtYd") (width 0.1) (tstamp b9b8f549-37ff-46b4-a6f9-2777d12fb05c))
+  (pad "1" smd rect (at -1.6 -1.9) (size 0.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 47716f14-fa8b-4574-b299-07703446a4d1))
+  (pad "2" smd rect (at -0.8 -1.9) (size 0.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2acd7244-8087-4f6a-aa6e-fcdc57c41610))
+  (pad "3" smd rect (at 0 -1.9) (size 0.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 08d69d12-3424-46ae-807c-8a95a3b91227))
+  (pad "4" smd rect (at 0.8 -1.9) (size 0.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 71f9bafd-9910-4519-b140-7b7acd697c85))
+  (pad "5" smd rect (at 1.6 -1.9) (size 0.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dd9e662a-4aeb-490f-8a44-087df15afec7))
+  (pad "S" thru_hole oval (at -3.65 -1.3) (size 1.6 2.6) (drill oval 0.5 1.5) (layers *.Cu *.Mask) (tstamp 1395a9c7-99db-4095-b170-8f3077a929e2))
+  (pad "S" thru_hole oval (at -3.65 3.5) (size 1.6 2.6) (drill oval 0.5 1.5) (layers *.Cu *.Mask) (tstamp 447678f9-f0e1-4ebf-813d-64e932958dbc))
+  (pad "S" thru_hole oval (at 3.65 -1.3) (size 1.6 2.6) (drill oval 0.5 1.5) (layers *.Cu *.Mask) (tstamp 67ffc69b-ba6b-41b2-b3f9-d7f1603aa013))
+  (pad "S" thru_hole oval (at 3.65 3.5) (size 1.6 2.6) (drill oval 0.5 1.5) (layers *.Cu *.Mask) (tstamp 8283e75f-4613-45e7-ab21-dc273be391a6))
+  (group "" (id 28ce427b-b68d-4f51-b66a-e0b7a617d9da)
+    (members
+      1395a9c7-99db-4095-b170-8f3077a929e2
+      447678f9-f0e1-4ebf-813d-64e932958dbc
+      67ffc69b-ba6b-41b2-b3f9-d7f1603aa013
+      8283e75f-4613-45e7-ab21-dc273be391a6
+ )
+  )
+  (group "" (id 64d0d0e8-e8ae-458f-8187-1a30e8e87825)
+    (members
+      08d69d12-3424-46ae-807c-8a95a3b91227
+      2acd7244-8087-4f6a-aa6e-fcdc57c41610
+      47716f14-fa8b-4574-b299-07703446a4d1
+      71f9bafd-9910-4519-b140-7b7acd697c85
+      dd9e662a-4aeb-490f-8a44-087df15afec7
+ )
+  )
+)
